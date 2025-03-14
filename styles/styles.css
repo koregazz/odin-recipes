@@ -1,0 +1,51 @@
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+#home {
+  color: #fff;
+}
+
+#home:hover {
+  background-color: grey;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+}
+
+h2,
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+
+ul,
+ol {
+  font-size: 16px;
+}
+
+.butter,
+.fish,
+.pumpkin {
+  font-size: 24px;
+  background-color: grey;
+}
+
+img {
+  margin: auto;
+  display: block;
+  border: 1px solid #fff;
+  height: 100%;
+  width: 500px;
+  object-fit: cover;
+}
